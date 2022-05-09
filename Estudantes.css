@@ -1,0 +1,20 @@
+
+
+.carta {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.estudantes-cartas{ 
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.card {
+    width: 19rem;
+}
